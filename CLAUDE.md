@@ -107,5 +107,6 @@ Lumen GI + reflections, virtual shadow maps, no static lighting, TSR, Vulkan SM5
 
 ## Git
 
+Remote: https://github.com/kcsksptr-dev/droid-galaxy (public). Repo-local author is the GitHub noreply address.
 Unreal binaries (`*.uasset`, `*.umap`, images, glTF) go through Git LFS (`.gitattributes`). Needs `git-lfs`
 installed (`sudo dnf install git-lfs && git lfs install`) before committing `Content/`.
