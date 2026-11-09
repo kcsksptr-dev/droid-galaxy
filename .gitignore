@@ -1,0 +1,16 @@
+# Unreal generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.code-workspace
+# Python caches from Tools/
+__pycache__/
+# Downloaded / derived source assets (re-create with Tools/fetch_polyhaven.sh + Tools/prep_assets.py)
+SourceAssets/polyhaven/
+SourceAssets/prepared/
